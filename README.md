@@ -74,14 +74,16 @@ Deployment: https://theycallmeshan.github.io/uts-paw/
 ![Tangkapan layar beranda](docs/beranda.png)
 
 ## Fitur
+- Melihat daftar kuliner di sekitar kampus ITERA.
+- Menambah tempat makan baru beserta alamat dan harga.
+- Menghapus tempat makan dari direktori.
+- Melihat statistik sebaran kategori makanan.
+- Data tersimpan secara lokal (Local Storage).
 
-- ...
-
-## Menjalankan secara lokal
-
-cd app
-npm install
-npm run dev
+## Cara Menjalankan
+1. Clone repositori ini.
+2. Buka folder `app` di terminal (`cd app`).
+3. Jalankan `npm install` lalu `npm run dev`.
 
 ## Konsep React yang dipakai
 

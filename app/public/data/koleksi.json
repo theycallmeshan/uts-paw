@@ -1,7 +1,7 @@
 [
   {"id": "1", "judul": "Kantin BKL ITERA", "kategori": "Kantin", "alamat": "Sabah Balau", "hargaRataRata": 15000, "jamBuka": "07.00-20.00"},
   {"id": "2", "judul": "Pindang Seruit Mentuha", "kategori": "Lesehan", "alamat": "Jl. Ryacudu, Way Dadi", "hargaRataRata": 35000, "jamBuka": "09.30-21.30"},
-  { "id": "3", "judul": "Tukamu Coffee & Tea House No. 2", "kategori": "Kafe", "alamat": "Perum Korpri Raya", "hargaRataRata": 25000, "jamBuka": "08.00-23.00"},
+  {"id": "3", "judul": "Tukamu Coffee & Tea House No. 2", "kategori": "Kafe", "alamat": "Perum Korpri Raya", "hargaRataRata": 25000, "jamBuka": "08.00-23.00"},
   {"id": "4", "judul": "RESTO UDA DODI Level Up!!!", "kategori": "Rumah Makan", "alamat": "Jl. Ryacudu, Sukarame", "hargaRataRata": 20000, "jamBuka": "08.00-22.00"},
   {"id": "5", "judul": "Rumah Makan Ibu Juju Ryacudu", "kategori": "Rumah Makan", "alamat": "Jl. Ryacudu, Way Dadi", "hargaRataRata": 15000, "jamBuka": "10.30-18.00"},
   {"id": "6", "judul": "Sambal seruit buk lin korpri", "kategori": "Lesehan", "alamat": "Harapan Jaya, Sukarame", "hargaRataRata": 30000,"jamBuka": "10.00-21.00"},
